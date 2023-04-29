@@ -1,4 +1,4 @@
--- IT Academy C1_S2_Queries
+-- IT Academy C1_S2_Queries_Tienda
 -- Author Miquel Debon Villagrasa
 
 -- TABLES Tienda
